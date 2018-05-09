@@ -24,6 +24,7 @@ Pod::Spec.new do |s|
           s.source              = { :git => "https://github.com/growingrv/GTLogger.git", :tag => "1.0.0" }
 
 #9. Specify the source files folder and types of files which you want to add into pod.
-          s.source_files     = "GTLogger", "GTLogger/**/*.{h,m,swift}"
+ #         s.source_files     = "GTLogger", "GTLogger/**/*.{h,m,swift}"
+          s.source_files     = "GTLogger", "GTLogger/**/*.{h,m}"
 
 end
