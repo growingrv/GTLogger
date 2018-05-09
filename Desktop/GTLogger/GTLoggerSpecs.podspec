@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
           s.name               = "GTLoggerSpecs"
           
 #2. Version of pod
-          s.version            = "2.0.0"
+          s.version            = "1.0.0"
 
 #3. Short description of your pod
           s.summary         = "Sort description of 'GTLogger' framework"
